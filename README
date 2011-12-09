@@ -1,0 +1,10 @@
+
+# Copyright 2011 Concentric Sky, Inc. All Rights Reserved.
+# http://www.concentricsky.com
+# This code may not be used without permission.
+
+Small test bed to demo the behavior of the HTML video player in a WebView, specifically the scrub bar.
+
+Loads a video whose copyright belongs to Khan Academy (http://www.khanacademy.org/).
+
+
